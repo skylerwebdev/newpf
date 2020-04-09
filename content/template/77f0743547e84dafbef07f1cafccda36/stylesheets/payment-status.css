@@ -1,0 +1,31 @@
+/*$Id$*/
+
+.theme-payment-content-area .zpcontainer { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; -o-flex-direction: column; flex-direction: column; -webkit-align-items: center; -moz-align-items: center; -ms-align-items: center; -o-align-items: center; align-items: center; padding: 50px 15px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-indicator { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-indicator svg { width: 252px; height: 86px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message { padding: 30px 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-header { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-wrap: wrap; -moz-flex-wrap: wrap; -ms-flex-wrap: wrap; -o-flex-wrap: wrap; flex-wrap: wrap; -webkit-align-items: center; -moz-align-items: center; -ms-align-items: center; -o-align-items: center; align-items: center; -webkit-justify-content: center; -moz-justify-content: center; -ms-justify-content: center; -o-justify-content: center; justify-content: center; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-header .theme-payment-fail-icon { margin-right: 15px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-header .theme-payment-fail-icon .theme-payment-fail-svg { width: 40px; height: 40px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message h3 { text-align: center; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-box { border: 1px solid var(--base_vars-_-color-border); border-radius: 4px; padding: 25px; margin-top: 15px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-box h5 { margin-bottom: 10px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-box .theme-payment-message-lists { padding: 0px; margin-left: 35px; list-style: none; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-box .theme-payment-message-lists .theme-payment-message-list { padding: 10px 0 0; position: relative; padding-left: 5px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message .theme-payment-message-box .theme-payment-message-lists .theme-payment-message-list:before { content: ''; width: 8px; height: 8px; background: var(--base_vars-_-color-text); border-radius: 10px; position: absolute; left: -20px; top: 19px; opacity: 0.35; }
+.theme-payment-content-area .zpcontainer .theme-payment-info { padding: 25px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; -o-flex-direction: column; flex-direction: column; -webkit-align-items: center; -moz-align-items: center; -ms-align-items: center; -o-align-items: center; align-items: center; }
+@media all and (min-width: 768px) { .theme-payment-content-area .zpcontainer .theme-payment-info { min-width: 365px; } }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list { -webkit-flex: 1 0 0px; -moz-flex: 1 0 0px; -ms-flex: 1 0 0px; -o-flex: 1 0 0px; flex: 1 0 0px; margin-bottom: 10px; }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list:last-child { margin-bottom: 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list span { font-weight: bold; }
+.theme-payment-content-area .zpcontainer .theme-payment-thank-message { padding: 23px 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-button { text-align: center; }
+.theme-payment-content-area .zpcontainer .theme-payment-button .zpbutton { margin: 0 10px; }
+.theme-payment-content-area .zpcontainer .theme-payment-button .theme-payment-bottom-message { margin: 15px 0; text-align: center; font-size: 110%; }
+
+@media only screen and (min-width: 992px) { .theme-payment-success-message { width: 800px; margin: 0 auto; } }
+@media all and (max-width: 768px) { .theme-payment-message-header { -webkit-justify-content: center; -moz-justify-content: center; -ms-justify-content: center; -o-justify-content: center; justify-content: center; text-align: center; }
+  .theme-payment-message-header .theme-payment-fail-icon, .theme-payment-message-header h3 { -webkit-flex: 1 0 100%; -moz-flex: 1 0 100%; -ms-flex: 1 0 100%; -o-flex: 1 0 100%; flex: 1 0 100%; }
+  .theme-responsive-menu-area.theme-hide-burgericon-cart-mobile { display: none; }
+  .zpheader-style-02 .theme-header.theme-header-navigation-style .zpcontainer.theme-responsive-menu-area.theme-hide-burgericon-cart-mobile { display: none; }
+  .zpheader-style-05 .theme-header.theme-header-navigation-style .zpcontainer.theme-responsive-menu-area.theme-hide-burgericon-cart-mobile { display: none; } }

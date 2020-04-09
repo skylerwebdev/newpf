@@ -1,0 +1,102 @@
+<div class="zpelement zpelem-socialshare">
+  <div class="zpsocial-share-container">
+  
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-facebook" data-social-media="facebook">
+        <div class="zpsocial-share-icon-facebook">
+          
+  
+  <svg class="zpsocial-icon-20px " viewBox="0 0 51 97" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M41.041,15.977 C33.939,15.977 32.564,19.352 32.564,24.305 L32.564,35.226 L49.502,35.226 L49.496,52.332 L32.564,52.332 L32.564,96.227 L14.897,96.227 L14.897,52.332 L0.127,52.332 L0.127,35.226 L14.897,35.226 L14.897,22.612 C14.897,7.972 23.84,0 36.9,0 L50.1,0.021 L50.099,15.973 L41.041,15.977 Z"></path>
+          </svg>
+  
+
+
+          <span class="zpsocial-network-name">Facebook</span>
+        </div>
+        <span class="zpsocial-share-count"> - </span>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-twitter" data-social-media="twitter">
+        <div class="zpsocial-share-icon-twitter">
+          
+  
+  <svg class="zpsocial-icon-20px " viewBox="0 1 16 14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path d="M16,3 C15.4,3.3 14.8,3.4 14.1,3.5 C14.8,3.1 15.3,2.5 15.5,1.7 C14.9,2.1 14.2,2.3 13.4,2.5 C12.8,1.9 11.9,1.5 11,1.5 C9.3,1.5 7.8,3 7.8,4.8 C7.8,5.1 7.8,5.3 7.9,5.5 C5.2,5.4 2.7,4.1 1.1,2.1 C0.8,2.6 0.7,3.1 0.7,3.8 C0.7,4.9 1.3,5.9 2.2,6.5 C1.7,6.5 1.2,6.3 0.7,6.1 L0.7,6.1 C0.7,7.7 1.8,9 3.3,9.3 C3,9.4 2.7,9.4 2.4,9.4 C2.2,9.4 2,9.4 1.8,9.3 C2.2,10.6 3.4,11.6 4.9,11.6 C3.8,12.5 2.4,13 0.8,13 L6.66133815e-16,13 C1.5,13.9 3.2,14.5 5,14.5 C11,14.5 14.3,9.5 14.3,5.2 L14.3,4.8 C15,4.3 15.6,3.7 16,3 L16,3 Z"></path>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">Twitter</span>
+        </div>
+        <span class="zpsocial-share-count"> - </span>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-pinterest" data-social-media="pinterest">
+        <div class="zpsocial-share-icon-pinterest">
+          
+  
+  <svg class="zpsocial-icon-20px " viewBox="0 0 76 98" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <path d="M40.125,0 C13.469,0 0.029,19.11 0.029,35.047 C0.029,44.696 3.682,53.279 11.516,56.479 C12.802,57.004 13.954,56.498 14.328,55.076 C14.586,54.091 15.199,51.608 15.472,50.573 C15.848,49.166 15.701,48.673 14.665,47.447 C12.406,44.782 10.962,41.332 10.962,36.445 C10.962,22.267 21.57,9.575 38.586,9.575 C53.65,9.575 61.928,18.781 61.928,31.075 C61.928,47.251 54.769,60.903 44.142,60.903 C38.272,60.903 33.88,56.049 35.288,50.096 C36.974,42.989 40.239,35.318 40.239,30.189 C40.239,25.597 37.776,21.766 32.674,21.766 C26.674,21.766 21.855,27.973 21.855,36.287 C21.855,41.583 23.644,45.165 23.644,45.165 C23.644,45.165 17.503,71.18 16.429,75.736 C14.284,84.808 16.107,95.931 16.261,97.054 C16.35,97.72 17.205,97.878 17.593,97.376 C18.148,96.653 25.293,87.832 27.722,79.017 C28.409,76.521 31.666,63.597 31.666,63.597 C33.616,67.314 39.313,70.589 45.372,70.589 C63.406,70.589 75.643,54.148 75.643,32.139 C75.644,15.498 61.547,0 40.125,0 L40.125,0 Z"></path>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">Pinterest</span>
+        </div>
+        <span class="zpsocial-share-count"> - </span>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-linkedin" data-social-media="linkedin">
+        <div class="zpsocial-share-icon-linkedin">
+          
+  
+  <svg class="zpsocial-icon-20px " viewBox="0 0 50 50" xmlns:xlink="http://www.w3.org/1999/xlink" data-social-icon="linkedin">
+    <path d="M6.02 0c3.32 0 6.02 2.7 6.02 6.02 0 3.32-2.7 6.02-6.02 6.02C2.7 12.04 0 9.34 0 6.02 0 2.7 2.7 0 6.02 0zm31.62 15.97C48.1 15.97 50 22.77 50 31.73V50H39.72V33.8c0-3.85-.07-8.75-5.37-8.75-5.37 0-6.23 4.2-6.23 8.54V50h-10.3V16.74h9.86v4.6h.22c1.38-2.62 4.7-5.37 9.74-5.37zm-36.66.77h10.4V50H.98V16.74z" fill-rule="nonzero"/>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">LinkedIn</span>
+        </div>
+        <span class="zpsocial-share-count"> - </span>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-reddit" data-social-media="reddit">
+        <div class="zpsocial-share-icon-reddit">
+          
+  
+  <svg class="zpsocial-icon-20px " viewBox="0 0 50 43" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-social-icon="reddit">
+    <path d="M49.94 20.78c0-3.08-2.46-5.58-5.5-5.58-1.44 0-2.74.56-3.73 1.48-3.6-2.54-8.44-4.2-13.87-4.5l2.44-8.15 7.45 1.5c.26 2.53 2.36 4.5 4.92 4.5h.05c2.72 0 4.93-2.25 4.93-5.02 0-2.76-2.22-5-4.95-5h-.02-.02c-1.9 0-3.55 1.1-4.38 2.7L27.3.7l-3.43 11.44-.28.02c-5.6.24-10.62 1.93-14.3 4.52-1-.92-2.3-1.48-3.74-1.48-3.04 0-5.5 2.5-5.5 5.58 0 2.18 1.22 4.05 3 4.98-.08.54-.13 1.08-.13 1.64 0 8.42 9.9 15.27 22.07 15.27 12.18 0 22.06-6.85 22.06-15.28 0-.57-.05-1.1-.13-1.66 1.8-.92 3-2.8 3-4.96zM3.87 23c-.74-.5-1.2-1.33-1.2-2.3 0-1.53 1.22-2.8 2.73-2.8.62 0 1.2.22 1.67.58-1.5 1.32-2.6 2.85-3.2 4.53zM39.8 5c0-1 .83-1.86 1.84-1.86 1.02 0 1.84.84 1.84 1.87 0 1.03-.82 1.88-1.84 1.88-1 0-1.83-.84-1.83-1.87zM14.18 24.94c0-1.95 1.57-3.53 3.53-3.53 1.96 0 3.53 1.58 3.53 3.53 0 1.96-1.57 3.54-3.53 3.54-1.96 0-3.53-1.58-3.53-3.54zM25 37.33c-5.3-.02-8.44-3.16-8.58-3.3l1.4-1.37c.02.02 2.64 2.68 7.18 2.7 4.48-.02 7.13-2.68 7.17-2.7l1.4 1.37c-.14.14-3.28 3.28-8.57 3.3zm7.37-8.86c-1.96 0-3.54-1.58-3.54-3.54 0-1.95 1.58-3.53 3.54-3.53 1.95 0 3.53 1.58 3.53 3.53 0 1.96-1.6 3.54-3.53 3.54zm13.8-5.4c-.6-1.7-1.75-3.28-3.27-4.6.47-.38 1.06-.6 1.7-.6 1.53 0 2.78 1.27 2.78 2.84 0 1-.48 1.84-1.22 2.36z" fill-rule="nonzero"/>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">Reddit</span>
+        </div>
+        <span class="zpsocial-share-count"> - </span>
+      </div>
+    
+   
+  </div>
+</div>
+
+

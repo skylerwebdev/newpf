@@ -1,0 +1,64 @@
+
+/*$Id$*/
+.theme-cart-area-container { color: var(--base_vars-_-color-text); }
+
+.theme-shopping-cart-table-container .theme-cart-table-row { border-bottom: 1px solid var(--base_vars-_-color-border); }
+.theme-shopping-cart-table-container .theme-cart-table-row .theme-cart-table-data .theme-cart-item-info ul li:after { color: var(--base_vars-_-color-border); }
+.theme-shopping-cart-table-container .theme-cart-table-row .theme-cart-table-data .theme-cart-item-info .item-price { color: var(--base_vars-_-color-primary); }
+.theme-shopping-cart-table-container .theme-cart-table-row .theme-cart-table-data.theme-cart-qty input[type=text] { border: 1px solid var(--default_vars-_-color-form-field-border); }
+.theme-shopping-cart-table-container .theme-cart-table-row .theme-cart-table-data.theme-cart-qty .theme-cart-qty-change { background: var(--base_vars-_-color-primary); color: var(--base_vars-_-color-default); }
+.theme-shopping-cart-table-container .theme-cart-table-row .theme-cart-table-data.theme-cart-item-remove .remove-icon { fill: var(--default_vars-_-color-form-error-message-text); }
+
+.theme-checkout-container .theme-checkout-tab { background: var(--default_vars-_-color-checkout-tab-background); border: 1px solid var(--base_vars-_-color-border); color: var(--base_vars-_-color-secondary); }
+.theme-checkout-container .theme-checkout-tab.theme-checkout-tab-selected { background: var(--default_vars-_-color-checkout-tab-background-selected); }
+.theme-checkout-container .theme-checkout-tab .theme-checkout-steps-count-label { background: var(--base_vars-_-color-default); border: 1px solid var(--base_vars-_-color-border); color: var(--base_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab .theme-checkout-tab-change-button { background: var(--base_vars-_-color-default); border: 1px solid var(--base_vars-_-color-border); color: var(--base_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content { border: 1px solid var(--base_vars-_-color-border); color: var(--base_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content.login-method .login-types .gust-login .login-method-label, .theme-checkout-container .theme-checkout-tab-content.login-method .login-types .user-login .login-method-label { color: var(--base_vars-_-color-secondary); }
+@media all and (min-width: 992px) { .theme-checkout-container .theme-checkout-tab-content.login-method .login-types .user-login { border-left: 1px solid var(--base_vars-_-color-border); } }
+.theme-checkout-container .theme-checkout-tab-content.login-method .change-login-container .notification-bar { background: var(--default_vars-_-color-checkout-change-login-notification-background); border: 1px solid var(--default_vars-_-color-checkout-change-login-notification-border); }
+.theme-checkout-container .theme-checkout-tab-content.login-method .change-login-container .notification-bar .close-notification { fill: var(--default_vars-_-color-checkout-change-login-notification-border); }
+.theme-checkout-container .theme-checkout-tab-content.login-method .change-login-container .change-login-options-container .change-login-option a { color: var(--base_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content.login-method .change-login-container .change-login-options-container .change-login-option a:after { background: var(--base_vars-_-color-border); }
+@media all and (min-width: 768px) { .theme-checkout-container .theme-checkout-tab-content.login-method .change-login-container .change-login-options-container .change-login-option:last-child { border-left: 1px solid var(--base_vars-_-color-border); } }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box { border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box .user-address-header { border-bottom: 1px dashed var(--base_vars-_-color-border); color: var(--base_vars-_-color-primary); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box .user-address-header input[type=radio]:checked + label { background: var(--default_vars-_-color-checkout-address-shipping-label-background); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box .user-address-header label { background: var(--base_vars-_-color-default); border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box .user-address-header label:before, .theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .theme-checkout-user-address-box .user-address-header label:after { background: var(--base_vars-_-color-default); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer { border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer .edit-address div, .theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer .delete-address div { color: var(--base_vars-_-color-secondary); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer .edit-address div .icon, .theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer .delete-address div .icon { fill: var(--base_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content.address .theme-checkout-user-address-box-container .theme-user-address-box .user-address-footer .delete-address { border-left: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area .theme-chekcout-form-head { border-bottom: 1px dashed var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container { list-style: none; }
+.theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container label.mandotry-field:after { color: var(--default_vars-_-color-form-error-message-text); }
+.theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container input[type=text], .theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container input[type=address], .theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container input[type=number], .theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container textarea, .theme-checkout-container .theme-checkout-tab-content .theme-checkout-form-area ul.theme-checkout-form-container li.form-field-container select { background: var(--default_vars-_-color-form-field-background); border: 1px solid var(--default_vars-_-color-form-field-border); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box { border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box input[type=radio]:checked + label { background: var(--default_vars-_-color-checkout-address-shipping-label-background); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box input[type=radio]:checked + label + .shipping-method-details { color: var(--base_vars-_-color-primary); background: var(--default_vars-_-color-checkout-tab-background-selected); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box input[type=radio]:checked + label + .shipping-method-details + .shipping-price { color: var(--base_vars-_-color-primary); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box label { border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box label:before, .theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box label:after { background: var(--base_vars-_-color-default); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box .shipping-method-details { background: var(--default_vars-_-color-checkout-tab-background); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box .shipping-method-details .shipping-method-type span { color: var(--default_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box .shipping-price { border-top: 1px solid var(--base_vars-_-color-border); color: var(--base_vars-_-color-primary); }
+.theme-checkout-container .theme-checkout-tab-content.shipping-methods .shipping-method-box-container .shipping-method-box .shipping-price span { color: var(--default_vars-_-color-text); }
+.theme-checkout-container .theme-checkout-tab-content.order-review .theme-order-review-address-area .order-review-address .order-review-address-head { border-bottom: 1px dashed var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.order-review .theme-checkout-order-summary-container .theme-order-summary-footer { border-bottom: 1px dashed var(--base_vars-_-color-border); }
+.theme-checkout-container .theme-checkout-tab-content.order-review .theme-checkout-order-summary-container .theme-order-summary-footer .price-label { color: var(--base_vars-_-color-primary); }
+.theme-checkout-container .theme-checkout-tab-content.order-review .theme-cart-area-container .theme-shopping-cart-table-container .theme-cart-table-row:last-child { border-bottom: 1px solid var(--base_vars-_-color-border); }
+
+.theme-checkout-order-summary-container .theme-chekout-ordersummar { border: 1px solid var(--base_vars-_-color-border); }
+.theme-checkout-order-summary-container .theme-chekout-ordersummar .theme-order-summary-head { border-bottom: 1px dashed var(--base_vars-_-color-border); }
+.theme-checkout-order-summary-container .theme-chekout-ordersummar ul.theme-order-summary-list { border-bottom: 1px dashed var(--base_vars-_-color-border); }
+.theme-checkout-order-summary-container .theme-chekout-ordersummar .theme-order-summary-footer .price-label { color: var(--base_vars-_-color-primary); }
+
+.theme-order-confirmation-msg-container { border: 1px solid var(--base_vars-_-color-border); background: var(--default_vars-_-color-order-confirmation-box-background); }
+.theme-order-confirmation-msg-container .order-success-icon svg { fill: var(--base_vars-_-color-primary); }
+.theme-order-confirmation-msg-container .divider-line:before, .theme-order-confirmation-msg-container .divider-line:after { background: var(--base_vars-_-color-border); }
+.theme-order-confirmation-msg-container .divider-line .divider-icon { fill: var(--base_vars-_-color-border); }
+
+.theme-checkout-primary-btn, .theme-checkout-secondary-btn { border: 0 none; }
+
+.theme-checkout-additional-information p { margin-bottom: 10px; }
